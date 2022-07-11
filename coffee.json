@@ -1,0 +1,64 @@
+{
+    "coffee":[
+        {
+            "image":"assets/coffee/1.png",
+            "name":"Caramel Macchiato",
+            "price":"1.79"
+        },
+        {
+            "image":"assets/coffee/2.png",
+            "name":"Caramel Cold Drink",
+            "price":"1.89"
+        },
+        {
+            "image":"assets/coffee/3.png",
+            "name":"Iced Coffe Mocha",
+            "price":"2.39"
+        },
+        {
+            "image":"assets/coffee/4.png",
+            "name":"Caramelized Pecan Latte",
+            "price":"2.29"
+        },
+        {
+            "image":"assets/coffee/5.png",
+            "name":"Toffee Nut Latte",
+            "price":"3.29"
+        },
+        {
+            "image":"assets/coffee/6.png",
+            "name":"Capuchino",
+            "price":"1.49"
+        },
+        {
+            "image":"assets/coffee/7.png",
+            "name":"Toffee Nut Iced Latte",
+            "price":"3.39"
+        },
+        {
+            "image":"assets/coffee/8.png",
+            "name":"Americano",
+            "price":"1.19"
+        },
+        {
+            "image":"assets/coffee/9.png",
+            "name":"Vietnamese-Style Iced Coffee",
+            "price":"3.29"
+        },
+        {
+            "image":"assets/coffee/10.png",
+            "name":"Black Tea Latte",
+            "price":"1.49"
+        },
+        {
+            "image":"assets/coffee/11.png",
+            "name":"Classic Irish Coffee",
+            "price":"3.19"
+        },
+        {
+            "image":"assets/coffee/12.png",
+            "name":"Toffee Nut Crunch Latte",
+            "price":"3.19"
+        }
+    ]
+}
